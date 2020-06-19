@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c464f3c.chunk.css",
-    "main.js": "/static/js/main.8b229f51.chunk.js",
+    "main.css": "/static/css/main.40e54526.chunk.css",
+    "main.js": "/static/js/main.4e5e0df3.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.6f60a200.js",
-    "static/js/2.b2f6b5e3.chunk.js": "/static/js/2.b2f6b5e3.chunk.js",
+    "static/js/2.9d2120fd.chunk.js": "/static/js/2.9d2120fd.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.6773f08d712cfed56965bf8578691b75.js": "/precache-manifest.6773f08d712cfed56965bf8578691b75.js",
+    "precache-manifest.98e1f359d44b816cd756641601ba9c6e.js": "/precache-manifest.98e1f359d44b816cd756641601ba9c6e.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.b2f6b5e3.chunk.js.LICENSE.txt": "/static/js/2.b2f6b5e3.chunk.js.LICENSE.txt"
+    "static/js/2.9d2120fd.chunk.js.LICENSE.txt": "/static/js/2.9d2120fd.chunk.js.LICENSE.txt",
+    "static/media/CV_Siddharth.pdf": "/static/media/CV_Siddharth.1bb97b73.pdf",
+    "static/media/avatar.jpg": "/static/media/avatar.f22ed583.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f60a200.js",
-    "static/js/2.b2f6b5e3.chunk.js",
-    "static/css/main.5c464f3c.chunk.css",
-    "static/js/main.8b229f51.chunk.js"
+    "static/js/2.9d2120fd.chunk.js",
+    "static/css/main.40e54526.chunk.css",
+    "static/js/main.4e5e0df3.chunk.js"
   ]
 }
